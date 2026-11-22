@@ -1,17 +1,17 @@
 {
  "android": {
-  "version": 9,
-  "file": "chat-v9.apk",
-  "sha256": "c83f1d459acfb5857126f943c2dd96621526a4ceef7accfeb9e7ba43a3224564",
-  "size": 98723
+  "version": 10,
+  "file": "chat-v10.apk",
+  "sha256": "0c88a1bc964a104ff89fcc66e75afcbc051ad45e83d84b857fab6146e2498f59",
+  "size": 123299
  },
  "desktop": {
-  "version": 9,
-  "file": "chat-desktop-v9.zip",
-  "sha256": "1c43af09d4bda68008da3ec210f6a3cd9f22071afdfd279b2ecb72f190ea91ce",
-  "size": 34291
+  "version": 10,
+  "file": "chat-desktop-v10.zip",
+  "sha256": "dd9eafb2777d57c7ed956f6c369037758a713eac0c70181f645a3891c6306e2e",
+  "size": 35443
  },
- "version": 9,
- "date": "2026-11-21 22:50",
- "notes": "Drafts from Claude appear in the chat box; self-update"
+ "version": 10,
+ "date": "2026-11-22 15:11",
+ "notes": "v10: swipe gallery, offline storage, kill chat, WhatsApp calls"
 }
