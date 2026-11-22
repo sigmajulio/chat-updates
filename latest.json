@@ -1,0 +1,17 @@
+{
+ "android": {
+  "version": 8,
+  "file": "chat-v8.apk",
+  "sha256": "bc4825c8d53bf3e6fad7dd1423f14768fe6e049251b8fcff41e6cd45d2c53b76",
+  "size": 98723
+ },
+ "desktop": {
+  "version": 8,
+  "file": "chat-desktop-v8.zip",
+  "sha256": "5622bd57c18711b399115f285a008019a26366874b20d4a352c2c02e042109fb",
+  "size": 33992
+ },
+ "version": 8,
+ "date": "2026-11-21 22:30",
+ "notes": "Self-update: Settings \u2192 Updates, plus an update banner"
+}
