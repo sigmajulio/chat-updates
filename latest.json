@@ -1,17 +1,17 @@
 {
  "android": {
-  "version": 8,
-  "file": "chat-v8.apk",
-  "sha256": "bc4825c8d53bf3e6fad7dd1423f14768fe6e049251b8fcff41e6cd45d2c53b76",
+  "version": 9,
+  "file": "chat-v9.apk",
+  "sha256": "c83f1d459acfb5857126f943c2dd96621526a4ceef7accfeb9e7ba43a3224564",
   "size": 98723
  },
  "desktop": {
-  "version": 8,
-  "file": "chat-desktop-v8.zip",
-  "sha256": "5622bd57c18711b399115f285a008019a26366874b20d4a352c2c02e042109fb",
-  "size": 33992
+  "version": 9,
+  "file": "chat-desktop-v9.zip",
+  "sha256": "1c43af09d4bda68008da3ec210f6a3cd9f22071afdfd279b2ecb72f190ea91ce",
+  "size": 34291
  },
- "version": 8,
- "date": "2026-11-21 22:30",
- "notes": "Self-update: Settings \u2192 Updates, plus an update banner"
+ "version": 9,
+ "date": "2026-11-21 22:50",
+ "notes": "Drafts from Claude appear in the chat box; self-update"
 }
